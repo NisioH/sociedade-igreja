@@ -1,0 +1,35 @@
+# Arquivos do sistema
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações do ambiente virtual
+venv/
+.venv/
+.env
+*.env
+
+# Banco de dados SQLite
+db.sqlite3
+
+# Migrations compiladas
+*/migrations/*.pyc
+
+# Arquivos de log
+logs/
+*.log
+
+# Configurações do Django
+*.secret
+settings_local.py
+
+# Arquivos do Flet
+*.flet/
+
+# Dependências do Node (caso use alguma integração)
+node_modules/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
