@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.idea
 
 # Configurações do ambiente virtual
 venv/
